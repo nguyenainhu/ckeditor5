@@ -41,6 +41,7 @@
     "@ckeditor/ckeditor5-link": "^29.1.0",
     "@ckeditor/ckeditor5-list": "^29.1.0",
     "@ckeditor/ckeditor5-media-embed": "^29.1.0",
+    "@ckeditor/ckeditor5-mention": "^29.1.0",
     "@ckeditor/ckeditor5-paragraph": "^29.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "^29.1.0",
     "@ckeditor/ckeditor5-table": "^29.1.0",
